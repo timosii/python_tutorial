@@ -8,12 +8,10 @@
 
 ## Основы программирования
 
-***
-
-* [Файл-менеджмент](fail-menedzhment.md)
-* [Основы командной строки](osnovy-komandnoi-stroki.md)
-* [Алгоритм. Блок-схема](algoritm.-blok-skhema.md)
-* [Обзор языков программирования](obzor-yazykov-programmirovaniya.md)
+* [Файл-менеджмент](osnovy-programmirovaniya/fail-menedzhment.md)
+* [Основы командной строки](osnovy-programmirovaniya/osnovy-komandnoi-stroki.md)
+* [Алгоритм. Блок-схема](osnovy-programmirovaniya/algoritm.-blok-skhema.md)
+* [Обзор языков программирования](osnovy-programmirovaniya/obzor-yazykov-programmirovaniya.md)
 
 ## Введение в Python
 
