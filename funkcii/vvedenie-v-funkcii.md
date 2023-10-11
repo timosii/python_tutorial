@@ -4,7 +4,7 @@
 
 [**Введение**](vvedenie-v-funkcii.md#vvedenie)\
 [**Функции без возврата значения**](vvedenie-v-funkcii.md#funkcii-bez-vozvrata-i-s-vozvratom-znacheniya)\
-[**Области видимости**](vvedenie-v-funkcii.md#oblasti-vidimosti)\
+[**Области видимости**](vvedenie-v-funkcii.md#oblasti-vidimosti-lokalnaya-i-globalnaya)\
 [**Функции с возвратом значения**](vvedenie-v-funkcii.md#funkcii-s-vozvratom-znacheniya)\
 [**Практика**](vvedenie-v-funkcii.md#praktika)
 
@@ -71,7 +71,7 @@ def имя_функции(): # это заголовок функции
     ...
 ```
 
-* Это называется _определением_ функции. То есть мы её _определили_.
+* Это называется _определением_ функции. Говорят, что функция _определена_.
 
 ```python
 def message():
@@ -160,7 +160,59 @@ def step4():
 
 * Напишите программу. "Точкой входа" должна быть функция main().
 
-### Области видимости
+### Области видимости: локальная и  глобальная&#x20;
+
+* Когда переменной _внутри функции_ присваивается значение, создаётся **локальная переменная**. Инструкции за пределами функции не имеют к ней доступа. Говорят, что переменная доступна в **локальной области видимости**
+* Когда переменная создается **снаружи функции**, она является **глобальной** и доступна в **глобальной области видимости**
+
+{% code overflow="wrap" lineNumbers="true" %}
+```python
+name = "Tatyana" # глобальная переменная
+def print_name():
+    print(name)
+    
+def print_another_name():
+    name = "Sergey" # локальная переменная
+    print(name)
+    
+print_name()
+print_another_name()
+
+def print_name_again():
+    name = "Ilona"
+    print(name)
+
+print_name_again()
+print(name)
+```
+{% endcode %}
+
+* Практика: напишите программу с применением глобальной и локальной переменных.
+
+#### Передача аргументов в функцию
+
+* **Аргумент** — любая порция данных, передаваемая в функцию, когда она вызывается
+* **Параметр** — переменная, которая получает аргумент, переданный в функцию
+
+```python
+def show_double(number): # number - параметр функции
+    result = number * 2
+    print(result)
+```
+
+* Закончим программу и разберём каждый её шаг:
+
+```python
+def main(): # определение функции main
+    value = 5 # создание переменной value
+    show_double(value) # вызов функции show_double с аргументом 5
+    
+def show_double(number): # определение функции show_double с параметром number
+    result = number * 2 # создание переменной result
+    print(result) # печать переменной result
+
+main() # вызов функции main
+```
 
 ### Функции с возвратом значения
 
