@@ -3,7 +3,6 @@
 _11.10_
 
 * Переезд на платформу **gitbook**, добавлен поиск, немного изменился интерфейс
-* [Области видимости](../funkcii/vvedenie-v-funkcii.md#oblasti-vidimosti-lokalnaya-i-globalnaya)
 * [Введение в функции](../funkcii/vvedenie-v-funkcii.md) — продолжение
 
 _09.10_
