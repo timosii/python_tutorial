@@ -14,18 +14,6 @@ layout:
 
 # Введение в функции
 
-***
-
-[**Введение**](vvedenie-v-funkcii.md#vvedenie)\
-[**Функции без возврата значения**](vvedenie-v-funkcii.md#funkcii-bez-vozvrata-znacheniya)\
-[**Области видимости**](vvedenie-v-funkcii.md#oblasti-vidimosti-lokalnaya-i-globalnaya)
-
-[**Передача аргументов в функцию**](vvedenie-v-funkcii.md#peredacha-argumentov-v-funkciyu)\
-[**Функции с возвратом значения**](vvedenie-v-funkcii.md#funkcii-s-vozvratom-znacheniya)\
-[**Практика**](vvedenie-v-funkcii.md#praktika)
-
-***
-
 ### Введение
 
 * Функция — это **группа инструкций**, которая существует внутри программы с целью выполнения определенной задачи
@@ -71,7 +59,7 @@ layout:
 * функции int() и float() тоже возвращают значение
 * функция print() ничего не возвращает, а только выполняет инструкцию печати
 
-#### Функции без возврата значения
+### Функции без возврата значения
 
 * Именование:
   * имя функции должно отражать то, что она делает
