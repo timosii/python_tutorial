@@ -284,11 +284,11 @@ def hello(name, surname):
 def main():
     plus_money = int(input('Введите доходы за месяц: '))
     minus_money = int(input('Введите расходы за месяц: '))
-    balance = sum(plus_money, minus_money)    
+    balance = diff(plus_money, minus_money)    
     print(balance)
     
-def sum(n1, n2):
-    result = n1 + n2
+def diff(n1, n2):
+    result = n1 - n2
     return result
 
 main()
