@@ -22,6 +22,11 @@
 * [Встроенные функции. f-строки](vvedenie-v-python/vstroennye-funkcii.-f-stroki.md)
 * [Ошибки](vvedenie-v-python/oshibki.md)
 
+## Практика программирования
+
+* [Стандарты написания кода](praktika-programmirovaniya/standarty-napisaniya-koda.md)
+* [Основы тестирования](praktika-programmirovaniya/osnovy-testirovaniya.md)
+
 ## Операторы ветвлений, циклы, исключения
 
 * [Условные конструкции и их синтаксис](operatory-vetvlenii-cikly-isklyucheniya/uslovnye-konstrukcii-i-ikh-sintaksis.md)
@@ -39,12 +44,18 @@
 ## Функции
 
 * [Введение в функции](funkcii/vvedenie-v-funkcii.md)
+* [Функции 2.0](funkcii/funkcii-2.0.md)
+* [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)
+* [Функциональное программирование  2.0](funkcii/funkcionalnoe-programmirovanie-2.0.md)
 
 ## Проект 1: Десктопное приложение
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
 
+***
+
+* [Последние обновления](poslednie-obnovleniya.md)
+
 ## Обратная связь
 
 * [Связаться с нами](obratnaya-svyaz/svyazatsya-s-nami.md)
-* [Последние обновления](obratnaya-svyaz/poslednie-obnovleniya.md)
