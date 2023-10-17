@@ -38,10 +38,11 @@
 
 ## Функции
 
-* [Введение в функции](funkcii/vvedenie-v-funkcii.md)
+* [Введение в функции. Модули](funkcii/vvedenie-v-funkcii.md)
 * [Функции. Продолжение](funkcii/funkcii-2.0.md)
 * [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)
 * [Замыкание. Карринг. Декораторы.](funkcii/funkcionalnoe-programmirovanie-2.0.md)
+* [Практика](funkcii/praktika.md)
 
 ## Практика программирования
 
