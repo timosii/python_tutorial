@@ -6,7 +6,7 @@ _16.10_
 
 _14.10_
 
-* [Основы командной строки](osnovy-programmirovaniya/osnovy-komandnoi-stroki.md)
+* [Основы командной строки](vvedenie-v-python/osnovy-komandnoi-stroki.md)
 
 _11.10_
 

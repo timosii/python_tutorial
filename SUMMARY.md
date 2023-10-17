@@ -9,7 +9,6 @@
 ## Основы программирования
 
 * [Файл-менеджмент](osnovy-programmirovaniya/fail-menedzhment.md)
-* [Основы командной строки](osnovy-programmirovaniya/osnovy-komandnoi-stroki.md)
 * [Алгоритм. Блок-схема](osnovy-programmirovaniya/algoritm.-blok-skhema.md)
 * [Обзор языков программирования](osnovy-programmirovaniya/obzor-yazykov-programmirovaniya.md)
 
@@ -21,6 +20,7 @@
 * [Переменные\*](vvedenie-v-python/peremennye.md)
 * [Встроенные функции. f-строки](vvedenie-v-python/vstroennye-funkcii.-f-stroki.md)
 * [Ошибки](vvedenie-v-python/oshibki.md)
+* [Основы командной строки](vvedenie-v-python/osnovy-komandnoi-stroki.md)
 
 ## Операторы ветвлений, циклы, исключения
 
