@@ -3,6 +3,40 @@
 * В каждом языке программирования есть свой стандарт написания кода — набор правил, который рекомендовано соблюдать
 * Стандарт, принятый в Python, называется [**PEP 8** ](https://pep8.org/)
 
+Посмотрите на _примеры кода._ Попробуйте предположить, что делает функция:
+
+<details>
+
+<summary>Первый  пример</summary>
+
+```python
+def s(i,d,s):
+ t=0
+ for j in i:
+  t+=j
+ if d:
+  t-=(t*s)
+ return t
+```
+
+</details>
+
+<details>
+
+<summary>Второй пример</summary>
+
+```python
+def calculate_total_cost(items, discount, size_of_discount):
+    total = 0
+    for item_cost in items:
+        total += item_cost
+    if discount:
+        total -= (total * size_of_discount)
+    return total
+```
+
+</details>
+
 _Основные моменты:_
 
 * 4 пробела в качестве отступа. Не используйте табуляцию.
