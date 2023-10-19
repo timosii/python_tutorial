@@ -59,7 +59,6 @@ def hello(name):
     print(f"Hello, {name}!")
     
 greeting_func = hello
-greeting_func = "TOP academy"
 ```
 
 ```python
