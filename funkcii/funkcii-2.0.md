@@ -79,7 +79,7 @@ def apply_function(numbers, function):
     for number in numbers:
         result = function(number)
         results.append(result)
-    return result
+    return results
     
 def square(number):
     return number ** 2
