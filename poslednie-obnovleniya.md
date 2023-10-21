@@ -3,6 +3,7 @@
 _21.10_
 
 * Добавлены примеры рекурсивных функций в [Функции. Продолжение](funkcii/funkcii-2.0.md)
+* [Аннотации типов](praktika-programmirovaniya/annotacii-tipov.md)
 
 _17.10_
 
