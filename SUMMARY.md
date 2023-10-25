@@ -47,8 +47,8 @@
 ## Практика программирования
 
 * [Стандарты написания кода](praktika-programmirovaniya/standarty-napisaniya-koda.md)
-* [Основы тестирования](praktika-programmirovaniya/osnovy-testirovaniya.md)
-* [Аннотации типов](praktika-programmirovaniya/annotacii-tipov.md)
+* [Основы тестирования\*](praktika-programmirovaniya/osnovy-testirovaniya.md)
+* [Аннотации типов\*](praktika-programmirovaniya/annotacii-tipov.md)
 
 ## Проект 1: Десктопное приложение
 
