@@ -34,14 +34,14 @@
 * [Регулярные выражения (regex)\*](stroki.-spiski/regulyarnye-vyrazheniya-regex.md)
 * [Списки](stroki.-spiski/spiski.md)
 * [Изменяемые и неизменяемые объекты в Python\*](stroki.-spiski/izmenyaemye-i-neizmenyaemye-obekty-v-python.md)
-* [Повторение](stroki.-spiski/povtorenie.md)
+* [Практика](stroki.-spiski/povtorenie.md)
 
 ## Функции
 
 * [Введение в функции. Модули](funkcii/vvedenie-v-funkcii.md)
 * [Функции. Продолжение](funkcii/funkcii-2.0.md)
 * [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)
-* [Замыкание. Карринг. Декораторы.](funkcii/funkcionalnoe-programmirovanie-2.0.md)
+* [Замыкания. Карринг. Декораторы.](funkcii/funkcionalnoe-programmirovanie-2.0.md)
 * [Практика](funkcii/praktika.md)
 
 ## Практика программирования

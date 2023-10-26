@@ -1,5 +1,11 @@
 # Последние обновления
 
+_26.10_
+
+* Добавлены [особенности работы с map(), filter(), reduce()](funkcii/funkcionalnoe-programmirovanie.md#osobennosti-obektov-map-filter-reduce) в главу [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)
+* [Замыкания. Карринг. Декораторы](funkcii/funkcionalnoe-programmirovanie-2.0.md)
+* Практика из главы [Ведение в функции. Модули ](funkcii/vvedenie-v-funkcii.md)перенесена в отдельную главу [Практика](funkcii/praktika.md) в конце раздела **Функции**
+
 _22.10_
 
 * [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)
