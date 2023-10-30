@@ -1,5 +1,9 @@
 # Последние обновления
 
+_30.10_
+
+* Основы алгоритмов: [Введение](osnovy-algoritmov/vvedenie.md), [Алгоритмы поиска](osnovy-algoritmov/algoritmy-poiska.md)
+
 _26.10_
 
 * Добавлены [особенности работы с map(), filter(), reduce()](funkcii/funkcionalnoe-programmirovanie.md#osobennosti-obektov-map-filter-reduce) в главу [Функциональное программирование](funkcii/funkcionalnoe-programmirovanie.md)

@@ -50,6 +50,11 @@
 * [Основы тестирования\*](praktika-programmirovaniya/osnovy-testirovaniya.md)
 * [Аннотации типов\*](praktika-programmirovaniya/annotacii-tipov.md)
 
+## Основы алгоритмов
+
+* [Введение](osnovy-algoritmov/vvedenie.md)
+* [Алгоритмы поиска](osnovy-algoritmov/algoritmy-poiska.md)
+
 ## Проект 1: Десктопное приложение
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
