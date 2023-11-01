@@ -54,6 +54,7 @@
 
 * [Введение](osnovy-algoritmov/vvedenie.md)
 * [Алгоритмы поиска](osnovy-algoritmov/algoritmy-poiska.md)
+* [Алгоритмы сортировки](osnovy-algoritmov/algoritmy-sortirovki.md)
 
 ## Проект 1: Десктопное приложение
 

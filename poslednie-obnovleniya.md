@@ -1,5 +1,9 @@
 # Последние обновления
 
+_01.10_
+
+* [Алгоритмы сортировки](osnovy-algoritmov/algoritmy-sortirovki.md): начало
+
 _30.10_
 
 * Основы алгоритмов: [Введение](osnovy-algoritmov/vvedenie.md), [Алгоритмы поиска](osnovy-algoritmov/algoritmy-poiska.md)
