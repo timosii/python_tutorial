@@ -32,7 +32,7 @@ description: >-
 5. Когда закончим очередной проход — уменьшаем значение финальной позиции, до которой проверяем, и снова начинаем сначала.
 6. Так делаем до тех пор, пока у нас не останется один элемент.
 
-<figure><img src="../.gitbook/assets/1-1.webp" alt=""><figcaption><p>Пример пузырьковой сортировки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bubble-sort-0.png" alt=""><figcaption><p>Сортировка пузырьком — первый проход</p></figcaption></figure>
 
 _Вычислительная сложность алгоритма:_
 
@@ -94,7 +94,7 @@ def selection_sort(nums):
         nums[i], nums[lowest_value_index] = nums[lowest_value_index], nums[i]
 
 
-# Verify it works
+# Проверяем работу
 random_list_of_nums = [12, 8, 3, 20, 11]
 selection_sort(random_list_of_nums)
 print(random_list_of_nums)
