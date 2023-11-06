@@ -67,3 +67,8 @@
 ## Обратная связь
 
 * [Связаться с нами](obratnaya-svyaz/svyazatsya-s-nami.md)
+
+## Коллекции
+
+* [Введение](kollekcii/vvedenie.md)
+* [Кортежи](kollekcii/kortezhi.md)

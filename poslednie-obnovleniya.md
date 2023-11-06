@@ -1,6 +1,10 @@
 # Последние обновления
 
-_01.10_
+_06.11_
+
+* [Коллекции](broken-reference). [Кортежи.](kollekcii/kortezhi.md)
+
+_01.11_
 
 * [Алгоритмы сортировки](osnovy-algoritmov/algoritmy-sortirovki.md): начало
 
