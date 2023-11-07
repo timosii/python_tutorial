@@ -56,6 +56,12 @@
 * [Алгоритмы поиска](osnovy-algoritmov/algoritmy-poiska.md)
 * [Алгоритмы сортировки](osnovy-algoritmov/algoritmy-sortirovki.md)
 
+## Коллекции
+
+* [Введение](kollekcii/vvedenie.md)
+* [Кортежи](kollekcii/kortezhi.md)
+* [Словари](kollekcii/slovari.md)
+
 ## Проект 1: Десктопное приложение
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
@@ -67,9 +73,3 @@
 ## Обратная связь
 
 * [Связаться с нами](obratnaya-svyaz/svyazatsya-s-nami.md)
-
-## Коллекции
-
-* [Введение](kollekcii/vvedenie.md)
-* [Кортежи](kollekcii/kortezhi.md)
-* [Словари](kollekcii/slovari.md)
