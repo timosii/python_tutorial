@@ -1,5 +1,9 @@
 # Последние обновления
 
+_07.11_
+
+* [Словари: ](kollekcii/slovari.md)начало
+
 _06.11_
 
 * [Коллекции](broken-reference). [Кортежи.](kollekcii/kortezhi.md)

@@ -72,3 +72,4 @@
 
 * [Введение](kollekcii/vvedenie.md)
 * [Кортежи](kollekcii/kortezhi.md)
+* [Словари](kollekcii/slovari.md)
