@@ -1,5 +1,9 @@
 # Последние обновления
 
+_09.11_
+
+* [Множества](kollekcii/mnozhestva.md)
+
 _08.11_
 
 * [Словари](kollekcii/slovari.md)
