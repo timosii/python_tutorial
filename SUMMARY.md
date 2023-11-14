@@ -62,6 +62,7 @@
 * [Кортежи](kollekcii/kortezhi.md)
 * [Словари](kollekcii/slovari.md)
 * [Множества](kollekcii/mnozhestva.md)
+* [Практика](kollekcii/praktika.md)
 
 ## Проект 1: Десктопное приложение
 
