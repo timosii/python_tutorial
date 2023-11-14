@@ -1,5 +1,9 @@
 # Последние обновления
 
+_14.11_
+
+* Коллекции: [практика](kollekcii/praktika.md)
+
 _09.11_
 
 * [Множества](kollekcii/mnozhestva.md)
