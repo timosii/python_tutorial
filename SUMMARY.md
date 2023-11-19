@@ -64,6 +64,10 @@
 * [Множества](kollekcii/mnozhestva.md)
 * [Практика](kollekcii/praktika.md)
 
+## Файлы
+
+* [Введение](faily/vvedenie.md)
+
 ## Проект 1: Десктопное приложение
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
