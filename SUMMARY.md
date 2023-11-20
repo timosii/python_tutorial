@@ -67,6 +67,7 @@
 ## Файлы
 
 * [Введение](faily/vvedenie.md)
+* [Работа с файлами в Python](faily/rabota-s-failami-v-python.md)
 
 ## Проект 1: Десктопное приложение
 
