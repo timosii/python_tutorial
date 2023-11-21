@@ -1,5 +1,9 @@
 # Последние обновления
 
+_21.11_
+
+* Файлы: [работа с файлами в Python](faily/rabota-s-failami-v-python.md)
+
 _19.11_
 
 * Файлы: [введение](faily/vvedenie.md)
