@@ -1,5 +1,9 @@
 # Последние обновления
 
+_23.11_
+
+* Файлы: [работа с файлами в Python](faily/rabota-s-failami-v-python.md) - продолжение
+
 _21.11_
 
 * Файлы: [работа с файлами в Python](faily/rabota-s-failami-v-python.md)
