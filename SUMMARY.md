@@ -69,6 +69,10 @@
 * [Введение](faily/vvedenie.md)
 * [Работа с файлами в Python](faily/rabota-s-failami-v-python.md)
 
+## Системы контроля версий
+
+* [Введение в Git](sistemy-kontrolya-versii/vvedenie-v-git.md)
+
 ## Проект 1: Десктопное приложение
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
