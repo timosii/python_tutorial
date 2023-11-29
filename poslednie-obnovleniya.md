@@ -1,5 +1,9 @@
 # Последние обновления
 
+_28.11_
+
+* [Введение в Git](sistemy-kontrolya-versii/vvedenie-v-git.md)
+
 _23.11_
 
 * Файлы: [работа с файлами в Python](faily/rabota-s-failami-v-python.md) - продолжение
