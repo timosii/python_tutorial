@@ -77,6 +77,10 @@
 
 * [План работы](proekt-1-desktopnoe-prilozhenie/plan-raboty.md)
 
+## Основы ООП
+
+* [Введение в ООП](osnovy-oop/vvedenie-v-oop.md)
+
 ***
 
 * [Последние обновления](poslednie-obnovleniya.md)
